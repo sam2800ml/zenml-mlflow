@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/591298203207815172/8685176d7d8e4d9d94159f00826bed8b/artifacts
+end_time: 1722446751278
+entry_point_name: ''
+experiment_id: '591298203207815172'
+lifecycle_stage: active
+run_id: 8685176d7d8e4d9d94159f00826bed8b
+run_name: polite-fish-118
+run_uuid: 8685176d7d8e4d9d94159f00826bed8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722446750198
+status: 4
+tags: []
+user_id: santi

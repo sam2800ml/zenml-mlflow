@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/825419071664762113/f4fe1c695e384aa1b17f4b48be3f3e0e/artifacts
+end_time: 1722370901527
+entry_point_name: ''
+experiment_id: '825419071664762113'
+lifecycle_stage: active
+run_id: f4fe1c695e384aa1b17f4b48be3f3e0e
+run_name: honorable-vole-111
+run_uuid: f4fe1c695e384aa1b17f4b48be3f3e0e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722370893901
+status: 3
+tags: []
+user_id: santi

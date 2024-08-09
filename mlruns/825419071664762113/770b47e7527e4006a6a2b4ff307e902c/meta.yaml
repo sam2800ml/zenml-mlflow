@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/825419071664762113/770b47e7527e4006a6a2b4ff307e902c/artifacts
+end_time: 1722369556757
+entry_point_name: ''
+experiment_id: '825419071664762113'
+lifecycle_stage: active
+run_id: 770b47e7527e4006a6a2b4ff307e902c
+run_name: crawling-dove-763
+run_uuid: 770b47e7527e4006a6a2b4ff307e902c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722369542753
+status: 3
+tags: []
+user_id: santi

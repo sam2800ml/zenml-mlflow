@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/591298203207815172/62c48511374f44cc9ebeba5273a2fd8c/artifacts
+end_time: 1722446797448
+entry_point_name: ''
+experiment_id: '591298203207815172'
+lifecycle_stage: active
+run_id: 62c48511374f44cc9ebeba5273a2fd8c
+run_name: bustling-calf-341
+run_uuid: 62c48511374f44cc9ebeba5273a2fd8c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722446792291
+status: 4
+tags: []
+user_id: santi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/591298203207815172/d64283eb78b44f9dafab76813922daa0/artifacts
+end_time: 1722445181848
+entry_point_name: ''
+experiment_id: '591298203207815172'
+lifecycle_stage: active
+run_id: d64283eb78b44f9dafab76813922daa0
+run_name: redolent-whale-623
+run_uuid: d64283eb78b44f9dafab76813922daa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722444773058
+status: 4
+tags: []
+user_id: santi

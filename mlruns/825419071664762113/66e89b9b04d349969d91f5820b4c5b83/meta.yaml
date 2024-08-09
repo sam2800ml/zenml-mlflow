@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/825419071664762113/66e89b9b04d349969d91f5820b4c5b83/artifacts
+end_time: 1722369496817
+entry_point_name: ''
+experiment_id: '825419071664762113'
+lifecycle_stage: active
+run_id: 66e89b9b04d349969d91f5820b4c5b83
+run_name: flawless-smelt-535
+run_uuid: 66e89b9b04d349969d91f5820b4c5b83
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722369496660
+status: 4
+tags: []
+user_id: santi

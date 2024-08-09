@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/591298203207815172/22c02f918f4c42d19faffd5a97834da0/artifacts
+end_time: 1722445896684
+entry_point_name: ''
+experiment_id: '591298203207815172'
+lifecycle_stage: active
+run_id: 22c02f918f4c42d19faffd5a97834da0
+run_name: redolent-gnu-879
+run_uuid: 22c02f918f4c42d19faffd5a97834da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722445518830
+status: 3
+tags: []
+user_id: santi

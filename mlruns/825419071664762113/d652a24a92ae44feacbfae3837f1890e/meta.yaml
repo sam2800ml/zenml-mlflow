@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/825419071664762113/d652a24a92ae44feacbfae3837f1890e/artifacts
+end_time: 1722367722940
+entry_point_name: ''
+experiment_id: '825419071664762113'
+lifecycle_stage: active
+run_id: d652a24a92ae44feacbfae3837f1890e
+run_name: tasteful-flea-681
+run_uuid: d652a24a92ae44feacbfae3837f1890e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722367708653
+status: 3
+tags: []
+user_id: santi

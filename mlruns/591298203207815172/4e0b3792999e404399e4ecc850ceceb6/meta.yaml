@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/591298203207815172/4e0b3792999e404399e4ecc850ceceb6/artifacts
+end_time: 1722447863289
+entry_point_name: ''
+experiment_id: '591298203207815172'
+lifecycle_stage: active
+run_id: 4e0b3792999e404399e4ecc850ceceb6
+run_name: powerful-hound-512
+run_uuid: 4e0b3792999e404399e4ecc850ceceb6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722447858981
+status: 4
+tags: []
+user_id: santi

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/santi/OneDrive/Desktop/Aprendiendo/mlflow/scikit-learn-mlflow/mlruns/0/4dbbc6fd04ee408eb1919386336ad8da/artifacts
+end_time: 1722367289469
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4dbbc6fd04ee408eb1919386336ad8da
+run_name: wise-midge-967
+run_uuid: 4dbbc6fd04ee408eb1919386336ad8da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1722367287612
+status: 3
+tags: []
+user_id: santi
